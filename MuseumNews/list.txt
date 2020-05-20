@@ -1,4 +1,4 @@
-项目结构
+项目结构说明
 │  begin.py                //直接启动爬虫
 │  classfirstmuseum.txt    //一级博物馆
 │  list.txt
